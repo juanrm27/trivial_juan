@@ -1,8 +1,8 @@
 class Modo():
     def __init__(self, 
                 tmax_juego= 60, 
-                tmax_pregunta=15, 
-                num_preguntas=10, 
+                tmax_pregunta=20, 
+                num_preguntas=15, 
                 num_jugadores=1) -> None:
     
         self.__tmax_juego    = tmax_juego
